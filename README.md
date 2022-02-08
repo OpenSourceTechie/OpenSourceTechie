@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 💬  Talks about cybersecurity, informationsecurity, cybersecuritytraining, cybersecurityawareness
+
 🔭 I’m currently helping organizations to build their open-source Security Operation Center (SOC)
