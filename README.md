@@ -9,7 +9,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)
 
 
-| ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)        | Are           | Cool  |
+| ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)        | ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
