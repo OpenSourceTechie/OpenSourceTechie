@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-👯 I’m looking to collaborate on blue teaming excercises
+👯 I’m looking to collaborate on blue teaming excercises.
 
 💬  Ask me about cybersecurity, informationsecurity, cybersecuritytraining, cybersecurityawareness.
 
@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
