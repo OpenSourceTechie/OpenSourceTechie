@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE matrix and construct a robust use-case library.
 
-👨‍💻 My blog:
-
-- https://opensourcetechie.github.io/bluenightingale/
+👨‍💻 My blog: https://opensourcetechie.github.io/bluenightingale/
