@@ -2,7 +2,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green)
 
@@ -15,8 +15,6 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/OpenSourceTechie/Python)
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **open-source-techie/open-source-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,3 +41,9 @@ Here are some ideas to get you started:
 🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE and construct a robust use-case library.
 
 👨‍💻 My blog: https://opensourcetechie.github.io/bluenightingale/
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
