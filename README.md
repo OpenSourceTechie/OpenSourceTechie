@@ -1,8 +1,8 @@
 ## Hi there ? 👋
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green)
+![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=OpenSourceTechie/Python)
 
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green)
