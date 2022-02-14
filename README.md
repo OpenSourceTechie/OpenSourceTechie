@@ -8,6 +8,14 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)
 
+
+| ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 <!--
 **open-source-techie/open-source-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
