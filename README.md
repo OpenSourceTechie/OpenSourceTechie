@@ -45,5 +45,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
