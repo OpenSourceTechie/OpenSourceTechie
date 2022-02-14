@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently helping organizations to build their open-source Security Operation Center (SOC).
 
-🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE matrix and construct a robust use-case library.
+🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE and construct a robust use-case library.
 
 👨‍💻 My blog: https://opensourcetechie.github.io/bluenightingale/
