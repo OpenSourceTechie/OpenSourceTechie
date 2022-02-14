@@ -1,6 +1,6 @@
 ## Hi there ? 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)
+
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)
 
@@ -9,11 +9,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)
 
 
-| ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)        | ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)           | Cool  |
+| ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A)        | ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie)           |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true)     | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green) |
+
 
 
 <!--
@@ -45,4 +44,4 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green)
+
