@@ -2,8 +2,6 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=OpenSourceTechie&repo=github-visitors-badge&countColor=%237B1E7A) ![Profile View Counter](https://komarev.com/ghpvc/?username=OpenSourceTechie) 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=OpenSourceTechie&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OpenSourceTechie&theme=blue-green)
-
 <!--
 **open-source-techie/open-source-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
