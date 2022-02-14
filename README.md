@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### 🧐 About
-
-
 
 👯 I’m looking to collaborate on blue teaming excercises
 
@@ -27,4 +24,6 @@ Here are some ideas to get you started:
 
 🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE matrix and construct a robust use-case library.
 
-👨‍💻 My blog: https://qinshuang1998.github.io
+👨‍💻 My blog:
+
+- https://opensourcetechie.github.io/bluenightingale/
