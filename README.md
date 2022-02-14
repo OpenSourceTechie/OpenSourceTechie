@@ -1,5 +1,7 @@
 ## Hi there ? 👋
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 <!--
 **open-source-techie/open-source-techie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
