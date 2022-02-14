@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently helping organizations to build their open-source Security Operation Center (SOC).
 
-🔭 I’m currently on a mission to help security blue team to align their SOC with MITRE ATT&CK matrix and build their robust security use-case library.
+🔭 I’m on a mission to help security blue team to align their existing SOC with MITRE matrix and build a robust security use-case library.
 
 👯 I’m looking to collaborate on blue teaming excercises
