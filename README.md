@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-👯 I’m looking to collaborate on blue teaming excercises.
-
-💬  Ask me about cybersecurity, informationsecurity, cybersecuritytraining, cybersecurityawareness.
+💬  Ask me about cybersecurity, cybersecuritytraining, cybersecurityawareness.
 
 🌱 I’m currently helping organizations to build their open-source Security Operation Center (SOC).
 
