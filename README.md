@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE and construct a robust use-case library.
 
 👨‍💻 My blog: 
-https://bluebug200.github.io/soc-operations/
-https://bluebug200.github.io/bluenightingale/
-https://bluebug200.github.io/graph4soc-vendorsearch/
+- https://bluebug200.github.io/soc-operations/
+- https://bluebug200.github.io/bluenightingale/
+- https://bluebug200.github.io/graph4soc-vendorsearch/
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
