@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Inquire about detection engineering, observability, and the art of wine and food pairing  
+💬 Ask me about detection engineering, observability, and the art of wine and food pairing  
 🔗 Connect with me for guidance on constructing a fully interconnected Security Operations Center  
 💁🏽 I offer consulting services for establishing your detection engineering team in line with MITRE ATT&CK  
 🔮 An aspiring sommelier who loves cognac, peated whisky and ofcourse wine & cheese
