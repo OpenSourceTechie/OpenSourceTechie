@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬  Ask me about cybersecurity, cybersecuritytraining, cybersecurityawareness.
+💬 Inquire about detection engineering, observability, and the art of wine and food pairing  
+🔗 Connect with me for guidance on constructing a fully interconnected Security Operations Center  
+💁🏽 I offer consulting services for establishing your detection engineering team in line with MITRE ATT&CK  
+🔮 An aspiring sommelier who loves cognac, peated whisky and ofcourse wine & cheese
 
-🌱 I’m currently helping organizations to build their open-source Security Operation Center (SOC).
-
-🔭 I’m on a mission to help security blue team to map their existing SOC with MITRE and construct a robust use-case library.
-
-👨‍💻 My blog: 
+👨‍💻 If you are free check my gitpages
+- https://bluebug200.github.io/observability-alertfatigue/
 - https://bluebug200.github.io/soc-operations/
 - https://bluebug200.github.io/bluenightingale/
 - https://bluebug200.github.io/graph4soc-vendorsearch/
