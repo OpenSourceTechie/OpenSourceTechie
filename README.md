@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Ask me about detection engineering, observability, and the art of wine and food pairing  
-🔗 Connect with me for guidance on constructing a fully interconnected Security Operations Center  
-💁🏽 I offer consulting services for establishing your detection engineering team in line with MITRE ATT&CK  
-🔮 An aspiring sommelier who loves cognac, peated whisky and ofcourse wine & cheese
+💬 I’m here to discuss the intricate world of detection engineering, observability, and the refined art of pairing wine with gourmet food. Let’s explore the fusion of technology and taste.
+🔗 Connect with me for expert advice on building a seamlessly interconnected Security Operations Center that’s ready for the future.
+💁🏽 I specialize in consulting services, guiding organizations to establish high-performing detection engineering teams that align with the strategic framework of MITRE ATT&CK.
+🔮 A dedicated sommelier-in-training with a deep appreciation for cognac, peated whisky, and, of course, the timeless pairing of wine and artisanal cheeses. Let's talk fine spirits and perfect pairings!
 
-👨‍💻 If you are free check my gitpages
-- https://bluebug200.github.io/observability-alertfatigue/
-- https://bluebug200.github.io/soc-operations/
-- https://bluebug200.github.io/bluenightingale/
-- https://bluebug200.github.io/graph4soc-vendorsearch/
+👨‍💻 Have some time to spare ? checkout my blog
+https://medium.com/@kaviarasan_ak
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
