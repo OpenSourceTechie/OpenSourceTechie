@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 I’m here to discuss the intricate world of detection engineering, observability, and the refined art of pairing wine with gourmet food. Let’s explore the fusion of technology and taste.
-🔗 Connect with me for expert advice on building a seamlessly interconnected Security Operations Center that’s ready for the future.
-💁🏽 I specialize in consulting services, guiding organizations to establish high-performing detection engineering teams that align with the strategic framework of MITRE ATT&CK.
-🔮 A dedicated sommelier-in-training with a deep appreciation for cognac, peated whisky, and, of course, the timeless pairing of wine and artisanal cheeses. Let's talk fine spirits and perfect pairings!
+- 💬 Let’s chat about detection engineering, observability, or the art of perfecting wine and food pairings.
+- 🔗 Connect for expert guidance on building a seamlessly integrated Security Operations Center.
+- 💁🏽 I offer consulting to set up detection engineering teams aligned with MITRE ATT&CK.
+- 🔮 Aspiring sommelier with a passion for cognac, peated whisky, and wine & cheese pairings.
 
 👨‍💻 Have some time to spare ? checkout my blog
 https://medium.com/@kaviarasan_ak
